@@ -1,4 +1,5 @@
 # Movie Cards Library
+Projeto desenvolvido na trybe de uma biblioteca de cartões de filmes utilizando React.
 
 
 # Habilidades Desenvolvidas
