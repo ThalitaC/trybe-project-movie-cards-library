@@ -25,3 +25,6 @@ Projeto desenvolvido na trybe de uma biblioteca de cartões de filmes utilizando
   npm install
   npm start
 ```
+
+# Deployed
+https://thalitac.github.io/trybe-project-movie-cards-library/
